@@ -13,6 +13,5 @@ include: "/views/TPC-DS_Benchmark_Model_-_BQ_main/TPC-DS_Benchmark_Model.view.lk
 
 
 explore: TPC_DS_Benchmark_Model {
-  label: "TPC-DS Benchmark Model"
+  label: "FL_TEST_EX"
 }
-
